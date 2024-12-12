@@ -1,4 +1,4 @@
-Code to correspond to Burke, Kristen L. and Laura Lindberg. “Gender, power, and unsatisfied contraceptive preferences: Results from a national survey of pregnancy-capable people in the United States.” Forthcoming in Socius.
+Code to correspond to Burke, Kristen L. and Laura Lindberg. “Gender, power, and unsatisfied contraceptive preferences: Results from a national survey of pregnancy-capable people in the United States.” Forthcoming in Socius. Contact kristenlburke@utexas.edu with questions.
 
 To run:
 1) Download raw data from OSF: osf.io/mbu6s
